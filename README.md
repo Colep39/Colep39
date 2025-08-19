@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **An AI-powered job board web app**
 
-- 🌱 I’m currently learning **Next.js, deep learning**
+- 🌱 I’m currently learning **Next.js and deep learning**
 
 - 👨‍💻 All of my projects are available at [cole-plagens.vercel.app](cole-plagens.vercel.app)
 
-- 💬 Ask me about **React, machine learning**
+- 💬 Ask me about **React and machine learning**
 
 - 📫 How to reach me **colep3@icloud.com**
 
