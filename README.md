@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js and deep learning**
 
-- 👨‍💻 All of my projects are available at [cole-plagens.vercel.app](cole-plagens.vercel.app)
+- 👨‍💻 All of my projects are available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)
 
 - 💬 Ask me about **React and machine learning**
 
