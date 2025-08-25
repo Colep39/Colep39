@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cole Plagens</h1>
 <h3 align="center">A Full-stack Developer and Data Scientist</h3>
 
-{ /* <p align="left"> <img src="https://komarev.com/ghpvc/?username=colep39&label=Profile%20views&color=0e75b6&style=flat" alt="colep39" /> </p> */ }
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colep39" alt="colep39" /></a> </p>
 
-- 🔭 I’m currently working on **An AI-powered job board web app**
+- 🔭 I’m currently working on **Simple Chat App in Go**
 
-- 🌱 I’m currently learning **Next.js and deep learning**
+- 🌱 I’m currently learning **Swift and deep learning**
 
-- 👨‍💻 All of my projects are available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)
+- 👨‍💻 My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)
 
 - 💬 Ask me about **React and machine learning**
 
