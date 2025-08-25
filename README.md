@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cole Plagens</h1>
 <h3 align="center">A Full-stack Developer and Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colep39" alt="colep39" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=colep39&theme=tokyonight&column=7" alt="colep39 trophies" />
+</p>
 
 - 🔭 I’m currently working on **Simple Chat App in Go**
 
@@ -27,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colep39&show_icons=true&locale=en" alt="colep39" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colep39&" alt="colep39" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" alt="colep39 streak" />
+</p>
