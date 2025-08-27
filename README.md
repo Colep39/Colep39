@@ -12,7 +12,7 @@
 ---
 
 - 🔭 I’m currently working on **Simple Chat App in Go**  
-- 🌱 I’m currently learning **Swift and Deep Learning**  
+- 🌱 I’m currently learning **Swift, Deep Learning, Artifical Intelligence**  
 - 👨‍💻 My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
 - 💬 Ask me about **React and Machine Learning**  
 - 📫 Reach me at **colep3@icloud.com**
