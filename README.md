@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Simple Chat App in Go**  
+- 🔭 I’m currently working on **Fullstack Volunteer Matching Application**  
 - 🌱 I’m currently learning **Swift, Deep Learning, Artificial Intelligence, DSA**  
 - 👨‍💻 My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
 - 💬 Ask me about **React and Machine Learning**  
