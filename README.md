@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **Swift, Deep Learning, Artificial Intelligence, DSA**  
 - 👨‍💻 My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
 - 💬 Ask me about **React and Machine Learning**  
-- 📫 Reach me at **colep3@icloud.com**
 
 ---
 
