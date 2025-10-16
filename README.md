@@ -11,11 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Fullstack Volunteer Matching Application**  
-- 🌱 I’m currently learning **Swift, Deep Learning, Artificial Intelligence, DSA**  
-- 👨‍💻 My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
-- 💬 Ask me about **React and Machine Learning**  
-
+- My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
