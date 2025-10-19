@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cole Plagens</h1>
+<h1 align="center">Hi, I'm Cole!!</h1>
 <h3 align="center">A Full-stack Developer and Data Scientist</h3>
 
 ---
