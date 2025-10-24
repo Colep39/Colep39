@@ -11,9 +11,6 @@
 
 ---
 
-- My portfolio is available at [cole-plagens.vercel.app](https://cole-plagens.vercel.app)  
----
-
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/cole-plagens" target="blank">
