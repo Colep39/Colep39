@@ -47,19 +47,7 @@
   <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/colep39" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/coleplagens" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cole-plagens.vercel.app" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio"/>
   </a>
