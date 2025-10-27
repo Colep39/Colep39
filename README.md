@@ -47,11 +47,5 @@
   <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
-  <a href="https://cole-plagens.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio"/>
-  </a>
-</p>
-
 </div>
 
