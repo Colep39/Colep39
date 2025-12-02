@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi, I'm Cole!</h1>
 
-<div align="center">
-### <span style="color: #4A7C59;">🩰 Fullstack Developer | Data Scientist </span>
+<div align="center"> <span style="color: #4A7C59;">Fullstack Developer | Data Scientist </span> </div>
+
 
 ## <span style="color: #FFB6C1;">About Me</span>
 I'm a developer that is passionate about scalable systems and machine learning topics. I highly value superb system design and software development workflows for the most efficient and successful outcomes possible. Check out my pinned repositories for what I have worked on!
@@ -12,6 +13,8 @@ I'm a developer that is passionate about scalable systems and machine learning t
 - <span style="color: #4A7C59;">Tutor for CougarCS so that I assist with junior level CS classes</span>
 - <span style="color: #4A7C59;">Houston Sports fanatic</span>
 - <span style="color: #4A7C59;">Interested in the intersections of SWE and AI</span>
+
+---
 
 ### 🏆 GitHub Achievements
 
@@ -55,5 +58,4 @@ I'm a developer that is passionate about scalable systems and machine learning t
   <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-</div>
 
