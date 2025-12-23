@@ -7,7 +7,7 @@
 ## <span style="color: #FFB6C1;">About Me</span>
 I'm a developer that is passionate about scalable systems and machine learning topics. I highly value superb system design and software development workflows for the most efficient and successful outcomes possible. Check out my pinned repositories for what I have worked on!
 
-**<span style="color: #4A7C59;">Currently:</span>** Seeking a challenging **Junior Software Engineer** role or meaningful **internship** to grow my skills and contribute to impactful projects.
+**<span style="color: #4A7C59;">Currently:</span>** Seeking a **Junior Software Engineer** role or meaningful **internship** to grow my skills and contribute to impactful projects.
 
 - <span style="color: #4A7C59;">Active member of the student organization CougarCS</span>
 - <span style="color: #4A7C59;">Tutor for CougarCS so that I assist with junior level CS classes</span>
