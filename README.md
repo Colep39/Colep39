@@ -51,16 +51,4 @@ Most of my work can be found in my **pinned repositories below**, showcasing ful
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
----
-
-## GitHub Activity
-
-<p>
-  <a href="https://github.com/colep39?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/colep39?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  </a>
-  <a href="https://github.com/colep39?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/github/repos/colep39?color=6aa84f&labelColor=38761d&style=for-the-badge&logo=repo"/>
-  </a>
-</p>
 
