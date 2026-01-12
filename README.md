@@ -14,12 +14,22 @@ I'm a developer that is passionate about scalable systems and machine learning t
 - <span style="color: #4A7C59;">Houston Sports fanatic</span>
 - <span style="color: #4A7C59;">Interested in the intersections of SWE and AI</span>
 
+
+<p align="left">
+      <a href="https://github.com/Colep39?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Colep39?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/Colep39?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Colep39?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+</p>
+
 ---
 
 ### GitHub Achievements
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=colep39&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="colep39 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Colep39&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="colep39 trophies" />
 </a>
 
 ---
@@ -46,16 +56,16 @@ I'm a developer that is passionate about scalable systems and machine learning t
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=colep39&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Colep39&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colep39&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Colep39&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Colep39&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
