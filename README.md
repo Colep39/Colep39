@@ -16,7 +16,7 @@ I'm a developer that is passionate about scalable systems and machine learning t
 
 ---
 
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=colep39&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="colep39 trophies" />
@@ -24,7 +24,7 @@ I'm a developer that is passionate about scalable systems and machine learning t
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -41,7 +41,7 @@ I'm a developer that is passionate about scalable systems and machine learning t
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table>
   <tr>
