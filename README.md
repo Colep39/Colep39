@@ -56,16 +56,16 @@ I'm a developer that is passionate about scalable systems and machine learning t
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Colep39&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=colep39&show_icons=true&theme=tokyonight&cache_seconds=1800" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Colep39&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colep39&layout=compact&theme=tokyonight&cache_seconds=1800" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Colep39&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=colep39&theme=tokyonight" />
 </p>
 
 
