@@ -4,15 +4,6 @@
   <strong>Full-Stack Developer · Data Science & Systems Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/colep39">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## About Me
