@@ -14,7 +14,7 @@ I care deeply about **system design, maintainability, and strong development wor
 Most of my work can be found in my **pinned repositories below**, showcasing full-stack applications, backend logic, and data-driven projects.
 
 **Currently:**  
-🎯 Seeking a **Junior Software Engineer** role or **internship** where I can grow and contribute meaningfully.
+Seeking a **Junior Software Engineer** role or **internship** where I can grow and contribute meaningfully.
 
 ---
 
