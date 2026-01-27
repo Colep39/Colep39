@@ -20,10 +20,10 @@ Seeking a **Junior Software Engineer** role or **internship** where I can grow a
 
 ## Experience & Involvement
 
-- 🎓 Active member of **CougarCS**
-- 👨‍🏫 **Tutor** for CougarCS (up to junior-level CS courses)
-- 🏈 Houston sports enthusiast
-- 🤖 Interested in the intersection of **Software Engineering & AI**
+- Active member of **CougarCS**
+- **Tutor** for CougarCS (up to junior-level CS courses)
+- Houston sports enthusiast
+- Interested in the intersection of **Software Engineering & AI**
 
 ---
 
