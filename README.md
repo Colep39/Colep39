@@ -8,22 +8,22 @@
 
 ## About Me
 
-I’m a developer passionate about **scalable systems**, **clean architecture**, and **machine learning–driven solutions**.  
-I care deeply about **system design, maintainability, and strong development workflows**.
+I’m a developer passionate about <strong>scalable systems</strong>, <strong>clean architecture</strong>, and <strong>machine learning–driven solutions</strong>.  
+I care deeply about <strong>system design, maintainability, and strong development workflows</strong>.
 
-Most of my work can be found in my **pinned repositories below**, showcasing full-stack applications, backend logic, and data-driven projects.
+Most of my work can be found in my <strong>pinned repositories below</strong>, showcasing full-stack applications, backend logic, and data-driven projects.
 
-**Currently:**  
-Seeking a **Junior Software Engineer** role or **internship** where I can grow and contribute meaningfully.
+<strong>Currently:</strong>  
+Seeking a <strong>Junior Software Engineer</strong> role or <strong>internship</strong> where I can grow and contribute meaningfully.
 
 ---
 
 ## Experience & Involvement
 
-- Active member of **CougarCS**
-- **Tutor** for CougarCS (up to junior-level CS courses)
+- Active member of <strong>CougarCS</strong>
+- <strong>Tutor</strong> for CougarCS (up to junior-level CS courses)
 - Houston sports enthusiast
-- Interested in the intersection of **Software Engineering & AI**
+- Interested in the intersection of <strong>Software Engineering & AI</strong>
 
 ---
 
@@ -33,6 +33,7 @@ Seeking a **Junior Software Engineer** role or **internship** where I can grow a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
@@ -40,6 +41,15 @@ Seeking a **Junior Software Engineer** role or **internship** where I can grow a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
 </p>
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colep39&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colep39&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
