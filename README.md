@@ -13,9 +13,6 @@ I care deeply about <strong>system design, maintainability, and strong developme
 
 Most of my work can be found in my <strong>pinned repositories below</strong>, showcasing full-stack applications, backend logic, and data-driven projects.
 
-<strong>Currently:</strong>  
-Working as a Junior Engineer for SinglePoint Global.
-
 ---
 
 ## Core Skills & Technologies
