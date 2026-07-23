@@ -14,16 +14,7 @@ I care deeply about <strong>system design, maintainability, and strong developme
 Most of my work can be found in my <strong>pinned repositories below</strong>, showcasing full-stack applications, backend logic, and data-driven projects.
 
 <strong>Currently:</strong>  
-Seeking a <strong>Junior/Entry Level Software Engineer</strong> role where I can grow and contribute meaningfully.
-
----
-
-## Experience & Involvement
-
-- Active member of <strong>CougarCS</strong>
-- <strong>Tutor</strong> for CougarCS (up to junior-level CS courses)
-- Houston sports enthusiast
-- Interested in the intersection of <strong>Software Engineering & Data Science</strong>
+Working as a Junior Engineer for SinglePoint Global.
 
 ---
 
